@@ -1,0 +1,18 @@
+# Node
+node_modules
+.env
+
+# Laravel
+/vendor
+/storage/*.key
+/storage/logs
+/storage/framework/cache
+/storage/framework/sessions
+/storage/framework/views
+
+# Build
+react-frontend/build
+
+# OS
+.DS_Store
+Thumbs.db
